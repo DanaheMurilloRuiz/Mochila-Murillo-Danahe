@@ -1,0 +1,12 @@
+1. Por que un lenguaje de programacion solo se puede usar en algunos sistemas operativos y en otro no?
+        Porque todos los sistemas son desarrollados en un tipo de lenguaje y con cierto entorno que no es compatible con todos entre >
+
+2. Que tipo de maquina virtual es VirtualBox?
+        Utiliza el hardware de una computadora y proporciona un entorno virtualizado de diferentes sistemas operativos
+
+3. Si tengo mas de una maquina instala, y una se rompe, afecta a las demas?
+        No, ya que cada maquina se ejecuta de forma separada entre las diversas, lo que puede afectar a todas puede ser un problema c>
+
+
+
+
